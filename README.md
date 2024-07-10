@@ -1,0 +1,1 @@
+# otel-workshop-self-hosted
